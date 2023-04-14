@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\ Tosca DI Specialist Training.db</DatabasePathAndName>
+    <Database>C:\Tosca_Projects\Tosca_Workspaces\ToscaDI1\Repository\ Tosca DI Specialist Training.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a0a35b7-61b3-fb27-c4f6-9654863af075</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>2550945d-0f44-40ed-9ed0-2315405e5aab</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>
